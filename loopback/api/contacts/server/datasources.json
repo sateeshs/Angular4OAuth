@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "ComposeMongo": {
+    "host": "ds023463.mlab.com",
+    "port": 23463,
+    "url": "mongodb://admin:admin123@ds023463.mlab.com:23463/homeexpenses",
+    "database": "homeexpenses",
+    "password": "admin123",
+    "name": "ComposeMongo",
+    "user": "admin",
+    "connector": "mongodb"
+  }
+}

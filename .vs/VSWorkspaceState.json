@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\OAuth",
-    "\\OAuth\\src",
-    "\\OAuth\\src\\Server"
+    "\\loopback\\api",
+    "\\loopback\\api\\contacts"
   ],
-  "SelectedNode": "\\OAuth\\src\\Server\\index.js",
+  "SelectedNode": "\\loopback",
   "PreviewInSolutionExplorer": false
 }
